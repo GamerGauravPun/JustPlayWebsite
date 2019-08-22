@@ -1,0 +1,32 @@
+﻿body {
+
+}
+
+.Menu {
+    background-color: #49434D
+}
+
+.Menu ul{
+    list-style:none;
+    color:aliceblue;
+}
+
+.Menu ul li:hover{
+    float: left;
+    background-color:lawngreen;
+    border:1px solid white;
+    width:150px;
+    height:50px;
+    line-height:50px;
+    text-align:center;
+    float:left;
+}
+
+.User {
+    list-style:none;
+    color:aqua;
+}
+
+.User ul li {
+    float:right;
+}
